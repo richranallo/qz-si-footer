@@ -4,11 +4,11 @@
   "description": "Footer component for Quartz - displays site footer with links and version",
   "type": "module",
   "license": "MIT",
-  "author": "Quartz Community",
-  "homepage": "https://github.com/quartz-community/footer",
+  "author": "Rich Ranallo",
+  "homepage": "https://github.com/richranallo/qz-si-footer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quartz-community/footer"
+    "url": "https://github.com/richranallo/qz-si-footer"
   },
   "keywords": [
     "quartz",
