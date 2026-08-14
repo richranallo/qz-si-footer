@@ -33,7 +33,7 @@ export default ((opts?: FooterOptions) => {
           {i18n(cfg?.locale ?? "en-US").components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz{version ? ` v${version}` : ""}</a> &copy;{" "}
           {year}
-          {" signal interruption"}
+          {" Signal Interruption"}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

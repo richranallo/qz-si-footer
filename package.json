@@ -1,5 +1,5 @@
 {
-  "name": "@quartz-community/footer",
+  "name": "qz-si-footer",
   "version": "0.1.1",
   "description": "Footer component for Quartz - displays site footer with links and version",
   "type": "module",
